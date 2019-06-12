@@ -21,4 +21,4 @@ version: 0.1.0
 appVersion: 1.16.0
 
 # Icon
-icon: https://github.com/patrocinio/netapp-trident-helm/blob/master/helm/netapp-trident/na_logo_vrt_2c_rgb.jpg
+icon: https://raw.githubusercontent.com/patrocinio/netapp-trident-helm/master/helm/netapp-trident/na_logo_vrt_2c_rgb.jpg
