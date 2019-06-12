@@ -3,13 +3,13 @@ entries:
   netapp-trident:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-06-12T10:38:19.628299-04:00"
+    created: "2019-06-12T10:49:33.455499-04:00"
     description: A Helm chart for Kubernetes
-    digest: e4a409c322797b18da05aaf64d96bb7efd2c661d67a7d5c0472dfe6fb67bf182
-    icon: https://github.com/patrocinio/netapp-trident-helm/blob/master/helm/netapp-trident/na_logo_vrt_2c_rgb.jpg
+    digest: 79b15294b143c8e42fd4db9ee8e613901b38942f9e53d0938e5527c7662229cc
+    icon: https://raw.githubusercontent.com/patrocinio/netapp-trident-helm/master/helm/netapp-trident/na_logo_vrt_2c_rgb.jpg
     name: netapp-trident
     type: application
     urls:
-    - https://github.com/patrocinio/netapp-trident-helm/blob/master/helm/netapp-trident-0.1.0.tgz
-    version: 0.1.0
-generated: "2019-06-12T10:38:19.621875-04:00"
+    - netapp-trident-0.1.1.tgz
+    version: 0.1.1
+generated: "2019-06-12T10:49:33.447116-04:00"
