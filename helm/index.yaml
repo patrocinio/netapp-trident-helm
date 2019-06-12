@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2019-06-12T10:05:18.255633-04:00"
+entries:
+  netapp-trident:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2019-06-12T10:16:30.3336-04:00"
+    description: A Helm chart for Kubernetes
+    digest: df4d6ed2284c76281596780a31d2196d55f150f1c7562c2d0179a9a5cacb8e4c
+    name: netapp-trident
+    type: application
+    urls:
+    - https://github.com/patrocinio/netapp-trident-helm/blob/master/helm/netapp-trident-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-12T10:16:30.331519-04:00"
